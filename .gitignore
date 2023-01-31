@@ -1,0 +1,7 @@
+venv
+tox
+docs/build/*
+source_code/__pycache__/
+.idea
+source_code.egg-info
+
