@@ -1,2 +1,2 @@
 # Celery_bug
-Repo of demonstrated bug in celery
+Repo with demonstration of bug in celery
